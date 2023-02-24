@@ -1,0 +1,57 @@
+[INFO ] 2023-02-04 18:55:29.619 [restartedMain] DemoApplication - Starting DemoApplication using Java 17.0.5 with PID 15652 (C:\FP DAVID\demo\springboot-template\target\classes started by David Fron Guiu in C:\FP DAVID\demo\springboot-template)
+[INFO ] 2023-02-04 18:55:29.651 [restartedMain] DemoApplication - The following 1 profile is active: "Pro"
+[INFO ] 2023-02-04 18:55:29.773 [restartedMain] DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 2023-02-04 18:55:29.780 [restartedMain] DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 2023-02-04 18:55:32.128 [restartedMain] TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-02-04 18:55:32.151 [restartedMain] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-04 18:55:32.151 [restartedMain] StandardService - Starting service [Tomcat]
+[INFO ] 2023-02-04 18:55:32.151 [restartedMain] StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.4]
+[INFO ] 2023-02-04 18:55:32.701 [restartedMain] TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 2023-02-04 18:55:32.751 [restartedMain] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-02-04 18:55:32.759 [restartedMain] ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2969 ms
+[INFO ] 2023-02-04 18:55:33.271 [restartedMain] WelcomePageHandlerMapping - Adding welcome page template: index
+[INFO ] 2023-02-04 18:55:33.539 [restartedMain] OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 2023-02-04 18:55:33.570 [restartedMain] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-04 18:55:33.631 [restartedMain] TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-02-04 18:55:33.659 [restartedMain] DemoApplication - Started DemoApplication in 4.89 seconds (process running for 6.425)
+[INFO ] 2023-02-04 18:55:37.798 [http-nio-8080-exec-1] [/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2023-02-04 18:55:37.798 [http-nio-8080-exec-1] DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2023-02-04 18:55:37.798 [http-nio-8080-exec-1] DispatcherServlet - Completed initialization in 0 ms
+[INFO ] 2023-02-07 20:01:34.355 [restartedMain] DemoApplication - Starting DemoApplication using Java 17.0.5 with PID 6648 (C:\FP DAVID\demo\springboot-template\target\classes started by David Fron Guiu in C:\FP DAVID\demo\springboot-template)
+[INFO ] 2023-02-07 20:01:34.373 [restartedMain] DemoApplication - The following 1 profile is active: "Pro"
+[INFO ] 2023-02-07 20:01:34.465 [restartedMain] DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 2023-02-07 20:01:34.466 [restartedMain] DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 2023-02-07 20:01:36.360 [restartedMain] TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-02-07 20:01:36.385 [restartedMain] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-07 20:01:36.388 [restartedMain] StandardService - Starting service [Tomcat]
+[INFO ] 2023-02-07 20:01:36.389 [restartedMain] StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.4]
+[INFO ] 2023-02-07 20:01:36.793 [restartedMain] TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 2023-02-07 20:01:36.823 [restartedMain] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-02-07 20:01:36.829 [restartedMain] ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2355 ms
+[INFO ] 2023-02-07 20:01:37.344 [restartedMain] WelcomePageHandlerMapping - Adding welcome page template: index
+[INFO ] 2023-02-07 20:01:37.565 [restartedMain] OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 2023-02-07 20:01:37.588 [restartedMain] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-07 20:01:37.645 [restartedMain] TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-02-07 20:01:37.664 [restartedMain] DemoApplication - Started DemoApplication in 3.896 seconds (process running for 5.056)
+[INFO ] 2023-02-07 20:01:42.956 [http-nio-8080-exec-1] [/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2023-02-07 20:01:42.957 [http-nio-8080-exec-1] DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2023-02-07 20:01:42.958 [http-nio-8080-exec-1] DispatcherServlet - Completed initialization in 1 ms
+[INFO ] 2023-02-07 20:01:46.301 [http-nio-8080-exec-3] ServiceStudentPro - guardando estudiante en PRODUCCION
+[INFO ] 2023-02-07 20:01:54.248 [http-nio-8080-exec-6] ServiceStudentPro - guardando estudiante en PRODUCCION
+[INFO ] 2023-02-07 20:01:58.311 [http-nio-8080-exec-7] ServiceStudentPro - guardando estudiante en PRODUCCION
+[INFO ] 2023-02-15 12:28:13.472 [restartedMain] DemoApplication - Starting DemoApplication using Java 17.0.5 with PID 19260 (C:\FP DAVID\demo\springboot-template\target\classes started by David Fron Guiu in C:\FP DAVID\demo\springboot-template)
+[INFO ] 2023-02-15 12:28:13.505 [restartedMain] DemoApplication - The following 1 profile is active: "Pro"
+[INFO ] 2023-02-15 12:28:13.631 [restartedMain] DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[INFO ] 2023-02-15 12:28:13.631 [restartedMain] DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[INFO ] 2023-02-15 12:28:16.095 [restartedMain] TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2023-02-15 12:28:16.122 [restartedMain] Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-15 12:28:16.127 [restartedMain] StandardService - Starting service [Tomcat]
+[INFO ] 2023-02-15 12:28:16.127 [restartedMain] StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.4]
+[INFO ] 2023-02-15 12:28:16.736 [restartedMain] TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 2023-02-15 12:28:16.789 [restartedMain] [/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2023-02-15 12:28:16.800 [restartedMain] ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3158 ms
+[INFO ] 2023-02-15 12:28:17.408 [restartedMain] WelcomePageHandlerMapping - Adding welcome page template: index
+[INFO ] 2023-02-15 12:28:17.796 [restartedMain] OptionalLiveReloadServer - LiveReload server is running on port 35729
+[INFO ] 2023-02-15 12:28:17.839 [restartedMain] Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2023-02-15 12:28:17.930 [restartedMain] TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2023-02-15 12:28:17.970 [restartedMain] DemoApplication - Started DemoApplication in 5.633 seconds (process running for 7.448)
